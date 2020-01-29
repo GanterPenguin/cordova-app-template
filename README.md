@@ -1,18 +1,21 @@
-# cordova-reacrm
+# cordova-vue-app-template
 
 ## Project setup
 ```
 yarn install
+cordova-prepare
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+cordova-serve-android
+cordova-serve-ios
 ```
 
 ### Compiles and minifies for production
 ```
-yarn build
+cordova-build-android
+cordova-build-ios
 ```
 
 ### Run your unit tests
@@ -27,3 +30,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+And [Cordova docs](https://cordova.apache.org/docs/en/latest/).
