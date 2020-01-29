@@ -29,5 +29,5 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See Vue [Configuration Reference](https://cli.vuejs.org/config/)
 And [Cordova docs](https://cordova.apache.org/docs/en/latest/).
