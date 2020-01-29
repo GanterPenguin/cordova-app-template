@@ -30,4 +30,4 @@ yarn lint
 
 ### Customize configuration
 See Vue [Configuration Reference](https://cli.vuejs.org/config/)
-And [Cordova docs](https://cordova.apache.org/docs/en/latest/).
+and [Cordova docs](https://cordova.apache.org/docs/en/latest/).
